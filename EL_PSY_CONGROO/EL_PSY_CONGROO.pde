@@ -1,8 +1,7 @@
 /* 
  EL PSY CONGROO
- Saira J. Barlas
- C12809080
- DT228/2
+ Author: Saira J. Barlas
+ Date: 02/11/2014
  */
 
 import ddf.minim.spi.*;
