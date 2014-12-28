@@ -1,7 +1,19 @@
 /* 
  EL PSY CONGROO
  Author: Saira J. Barlas
- Date: 02/11/2014
+ Date: 02/11/14
+ 
+ Game that shows:
+ 1 - Home Screen
+ 2 - How to Screen
+ 3 - Movement using cursor while holding the S key
+ 4 - 1 Life
+ 5 - Enemy level and speed increasing as they fall
+ 6 - BGM
+ 7 - Score and Block Health
+ 8 - Game Over and Score
+ 9 - Pause Screen (when the S key isn't held)
+ 10 - Images
  */
 
 import ddf.minim.spi.*;
