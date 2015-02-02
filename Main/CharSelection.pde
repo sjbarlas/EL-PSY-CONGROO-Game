@@ -5,7 +5,7 @@ void charS()
   {
     fill(255, 0, 0);
     textFont(font, 16);
-    text("YOOO", 210, 220);
+    //text("YOOO", 210, 220);
   } // end if
 
   // Faris
