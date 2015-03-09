@@ -64,6 +64,8 @@ boolean game = false; // game
 
 void setup()
 {
+  frame.setTitle("EL PSY CONGROO");
+  
   m12 = new Minim(this);
   steiner = m12.loadFile("Gate of Steiner.mp3");
 
